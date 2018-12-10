@@ -14,7 +14,7 @@ In this Github directory, *Report* file is our final presentation PPT at Columbi
 
 For detailed information, please find the Summary pdf file, which has a top-bottom introduction to the whole project; *DataDescription.docx* could give you a general review of the total data. For short version, excerpts of major results are highlighted below. Also note we preserve the data file and do not upload them online.  
 
-Last but not the least, this **team project** is contributed to the **great joint collaboration** of our [fantastic team](# Cast) with Qinya, Huizi, Xiaoxuan, Xiaoyu and Xiaohui.   
+Last but not the least, this **team project** is contributed to the **great joint collaboration** of our [fantastic team](#Starring Cast) with Qinya, Huizi, Xiaoxuan, Xiaoyu and Xiaohui.   
 
 
 
@@ -54,7 +54,7 @@ We implemented a two-layer Bidirectional LSTM and the performance results is sho
 | ------------------------- | ------------------------- | -------------- |
 | **Precision**             | 67%                       | 57%            |
 | **Recall**                | 64%                       | 46%            |
-| **F-Score**               | 65%                       | 48%            |
+| **F1-Score**              | 65%                       | 48%            |
 | **Accuracy**              | 86%                       | 88%            |
 
 ### Conclusion
@@ -78,7 +78,7 @@ What matters for a movie investor is the combo of famous director with all-star 
 
 
 
-# Cast
+# Starring Cast
 
 - [Qinya Li](https://github.com/qinya1)
 
